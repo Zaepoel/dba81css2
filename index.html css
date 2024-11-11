@@ -1,1 +1,24 @@
+!DOCTYPE html>
+<html>
+<head>
+<title>DBA CSS</title>
+</head>
+<body>
 
+    <body style="background-color:powderblue;">
+
+<header>
+
+<h1> Dba CSS</h1>
+<nav>
+
+<a href="">Nama</a>
+<a href="">aku adalah</a>
+<a href="">Danu</a>
+</nav>
+
+</header>
+ 
+
+</body>
+</html>
